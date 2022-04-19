@@ -1,6 +1,8 @@
-# NgVideoGameDb
+# Angular Video Game Database
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+
+This project fetches data from an API and displays it.
 
 ## Creating the project
 
